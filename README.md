@@ -1,3 +1,9 @@
+# Project created just for study and see practical operation React hookstate
+
+> Credits: [Article](https://blog.logrocket.com/simplify-react-state-management-with-hookstate/)
+
+----------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
